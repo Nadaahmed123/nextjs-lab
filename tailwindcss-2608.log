@@ -1,0 +1,112 @@
+2025-06-15T19:36:13.972846Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2025-06-15T19:36:13.973204Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "c:\\Users\\ascom\\Documents\\nextlab\\next-lab3", pattern: "**/*", negated: false }
+2025-06-15T19:36:13.973616Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2025-06-15T19:36:13.973662Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3" }
+2025-06-15T19:36:13.983450Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:13.983582Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:13.988240Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\eslint.config.mjs"
+2025-06-15T19:36:13.988523Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\models"
+2025-06-15T19:36:13.988919Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\models\\User.tsx"
+2025-06-15T19:36:13.989139Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\next.config.ts"
+2025-06-15T19:36:13.989580Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\package.json"
+2025-06-15T19:36:13.989998Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\postcss.config.mjs"
+2025-06-15T19:36:13.990241Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public"
+2025-06-15T19:36:13.990575Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\file.svg"
+2025-06-15T19:36:13.991558Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\globe.svg"
+2025-06-15T19:36:13.991793Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\next.svg"
+2025-06-15T19:36:13.991973Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\vercel.svg"
+2025-06-15T19:36:13.992154Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\window.svg"
+2025-06-15T19:36:13.992551Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\README.md"
+2025-06-15T19:36:13.992781Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src"
+2025-06-15T19:36:13.993091Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app"
+2025-06-15T19:36:13.993464Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\actions.tsx"
+2025-06-15T19:36:13.993716Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api"
+2025-06-15T19:36:13.994042Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth"
+2025-06-15T19:36:13.994354Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth\\[...nextauth]"
+2025-06-15T19:36:13.994604Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth\\[...nextauth]\\route.tsx"
+2025-06-15T19:36:13.994850Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users"
+2025-06-15T19:36:13.995150Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\route.tsx"
+2025-06-15T19:36:13.995338Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\[id]"
+2025-06-15T19:36:13.995573Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\[id]\\route.tsx"
+2025-06-15T19:36:13.995837Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components"
+2025-06-15T19:36:13.996085Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components\\providers.tsx"
+2025-06-15T19:36:13.996388Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components\\SessionProvider.tsx"
+2025-06-15T19:36:13.997781Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\globals.css"
+2025-06-15T19:36:13.998109Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\layout.tsx"
+2025-06-15T19:36:13.998562Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\page.tsx"
+2025-06-15T19:36:13.998911Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\_lib"
+2025-06-15T19:36:13.999326Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\_lib\\db.ts"
+2025-06-15T19:36:13.999748Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\tsconfig.json"
+2025-06-15T19:36:14.000148Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2025-06-15T19:36:14.005469Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2025-06-15T19:36:14.006154Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:14.006187Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:14.011681Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\models"
+2025-06-15T19:36:14.013284Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public"
+2025-06-15T19:36:14.014594Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src"
+2025-06-15T19:36:14.015216Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app"
+2025-06-15T19:36:14.015841Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api"
+2025-06-15T19:36:14.016357Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth"
+2025-06-15T19:36:14.016883Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth\\[...nextauth]"
+2025-06-15T19:36:14.017623Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users"
+2025-06-15T19:36:14.018184Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\[id]"
+2025-06-15T19:36:14.018922Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components"
+2025-06-15T19:36:14.019940Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\_lib"
+2025-06-15T19:36:14.020546Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2025-06-15T19:36:14.031391Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2025-06-15T19:36:14.119783Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2025-06-15T19:36:14.119804Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "c:\\Users\\ascom\\Documents\\nextlab\\next-lab3", pattern: "**/*", negated: false }
+2025-06-15T19:36:14.119970Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2025-06-15T19:36:14.119982Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3" }
+2025-06-15T19:36:14.120068Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:14.120082Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:14.122522Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\eslint.config.mjs"
+2025-06-15T19:36:14.122713Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\models"
+2025-06-15T19:36:14.122951Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\models\\User.tsx"
+2025-06-15T19:36:14.123120Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\next.config.ts"
+2025-06-15T19:36:14.123539Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\package.json"
+2025-06-15T19:36:14.123671Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\postcss.config.mjs"
+2025-06-15T19:36:14.123855Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public"
+2025-06-15T19:36:14.124093Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\file.svg"
+2025-06-15T19:36:14.124220Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\globe.svg"
+2025-06-15T19:36:14.124350Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\next.svg"
+2025-06-15T19:36:14.124477Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\vercel.svg"
+2025-06-15T19:36:14.124602Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public\\window.svg"
+2025-06-15T19:36:14.124755Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\README.md"
+2025-06-15T19:36:14.124944Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src"
+2025-06-15T19:36:14.125211Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app"
+2025-06-15T19:36:14.125435Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\actions.tsx"
+2025-06-15T19:36:14.125609Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api"
+2025-06-15T19:36:14.125901Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth"
+2025-06-15T19:36:14.126168Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth\\[...nextauth]"
+2025-06-15T19:36:14.126405Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth\\[...nextauth]\\route.tsx"
+2025-06-15T19:36:14.126638Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users"
+2025-06-15T19:36:14.126866Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\route.tsx"
+2025-06-15T19:36:14.127040Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\[id]"
+2025-06-15T19:36:14.127261Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\[id]\\route.tsx"
+2025-06-15T19:36:14.127517Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components"
+2025-06-15T19:36:14.127741Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components\\providers.tsx"
+2025-06-15T19:36:14.127879Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components\\SessionProvider.tsx"
+2025-06-15T19:36:14.128043Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\globals.css"
+2025-06-15T19:36:14.128170Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\layout.tsx"
+2025-06-15T19:36:14.128326Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\page.tsx"
+2025-06-15T19:36:14.128514Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\_lib"
+2025-06-15T19:36:14.128731Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\_lib\\db.ts"
+2025-06-15T19:36:14.129015Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\tsconfig.json"
+2025-06-15T19:36:14.129171Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2025-06-15T19:36:14.129309Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2025-06-15T19:36:14.129427Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:14.129444Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2025-06-15T19:36:14.132810Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\models"
+2025-06-15T19:36:14.133725Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\public"
+2025-06-15T19:36:14.134421Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src"
+2025-06-15T19:36:14.134687Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app"
+2025-06-15T19:36:14.135037Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api"
+2025-06-15T19:36:14.135312Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth"
+2025-06-15T19:36:14.135586Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\auth\\[...nextauth]"
+2025-06-15T19:36:14.135986Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users"
+2025-06-15T19:36:14.136375Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\api\\users\\[id]"
+2025-06-15T19:36:14.136793Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\components"
+2025-06-15T19:36:14.137423Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\ascom\\Documents\\nextlab\\next-lab3\\src\\app\\_lib"
+2025-06-15T19:36:14.137934Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2025-06-15T19:36:14.144715Z  INFO get_globs: tailwindcss_oxide::scanner: exit
